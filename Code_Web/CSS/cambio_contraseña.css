@@ -1,0 +1,17 @@
+body{
+    background-color: #F9F5E8;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    height: 110px;
+    width: 300px;
+    background-color: #F9F5E8;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    margin-right: auto;
+    padding-left: 30px;
+}
